@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav {
+    background: #cfd8dc;
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+}
+
+.link {
+    padding: 10px 40px;
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+    font-weight: bold;
+}

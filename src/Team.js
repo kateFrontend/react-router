@@ -1,11 +1,11 @@
 import React from "react";
 
-function Shop() {
+function Team() {
   return (
     <div>
-      <h2>Shop</h2>
+      <h2>Team</h2>
     </div>
   );
 }
 
-export default Shop;
+export default Team;
